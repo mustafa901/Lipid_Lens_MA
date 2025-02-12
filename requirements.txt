@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-python-headless==4.8.0.76  # Use a specific version of OpenCV
 numpy
 scikit-image
 matplotlib
