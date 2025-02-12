@@ -8,7 +8,7 @@ This documentation provides a comprehensive guide to the app, including its feat
 ---
 
 ## Features
-1. **Image Upload**: Users can upload an image of lipid droplets in common formats (JPEG, PNG).
+1. **Image Upload**: Users can upload an image of lipid droplets in common formats (JPEG, PNG, TIF).
 2. **Grayscale Conversion**: The app automatically converts the uploaded image to grayscale for processing.
 3. **Thresholding**: A range of threshold values is applied to segment the lipid droplets.
 4. **Noise Removal**: Small objects (noise) are removed from the binary image.
